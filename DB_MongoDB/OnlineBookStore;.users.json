@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "640737c0c43bfb250daebc1d"
+  },
+  "username": "TK Admin",
+  "email": "admin@gmail.com",
+  "phonenumber": "0907532754",
+  "password": "U2FsdGVkX19Y/msN41QRCNqCWaPjL6qM1Fo08T4ewDk=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-03-07T13:10:24.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-07T13:10:24.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640737ddc43bfb250daebc33"
+  },
+  "username": "Phan Thành Hai",
+  "email": "quib1909976@student.ctu.edu.vn",
+  "phonenumber": "0124563924",
+  "password": "U2FsdGVkX18adQ9rZd5sh6ij7SuoHTLA7LSEGjsOaBE=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-07T13:10:53.765Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T03:59:22.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640bd1a8ee9f72ef9677373e"
+  },
+  "username": "Test2",
+  "email": "test2@gmail.com",
+  "phonenumber": "0125674563",
+  "password": "U2FsdGVkX192W1+TM7N+0Xzm+U5SINAHV/TMf9j7fcQ=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-11T00:56:08.099Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T00:56:08.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640bd8bc62eb18dc1ecd29c5"
+  },
+  "username": "baocao",
+  "email": "baocao@gmail.com",
+  "phonenumber": "01245639239",
+  "password": "U2FsdGVkX19xs5W+ozuM4TpTR+rmWG27gdZeTqOUqbs=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-11T01:26:20.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T14:55:31.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64130af1551de49088a91dcc"
+  },
+  "username": "phan thanh test",
+  "email": "test@gmail.com",
+  "phonenumber": "0124775689",
+  "password": "U2FsdGVkX19lQLUqa8O5zXoOLmPq01XAzvbZm2V8DgA=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-16T12:26:25.530Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-16T12:26:25.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64130b9c551de49088a91e32"
+  },
+  "username": "hom nay test koko",
+  "email": "testnek@gmail.com",
+  "phonenumber": "0144445688",
+  "password": "U2FsdGVkX1/Vi3WHzYl/htO+vztxrJJH/daqTQifdSY=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-16T12:29:16.879Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-16T12:31:17.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425c341056df72e6c7bd7da"
+  },
+  "username": "Thành Quí Phan",
+  "email": "phanquistudent@gmail.com",
+  "phonenumber": "0905631247",
+  "password": "U2FsdGVkX1+DglmJmcUCHvkhKKk96on5216poLS/qas=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-30T17:13:37.933Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T17:13:37.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425c3f9056df72e6c7bd7ee"
+  },
+  "username": "Thành Quí ",
+  "email": "quistore@gmail.com.vn",
+  "phonenumber": "0854666321",
+  "password": "U2FsdGVkX19RY76UexeRx+01JUrkrXO1RQCc527pVNY=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-30T17:16:41.293Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T17:16:41.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6425c491056df72e6c7bd7f6"
+  },
+  "username": "PhanStudent",
+  "email": "studentone@gmail.com",
+  "phonenumber": "0901254786",
+  "password": "U2FsdGVkX1/Byj/1NU7gAbB98fwx7d3/E7L7t3D8qWs=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-03-30T17:19:13.518Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T17:20:20.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644028743615a7eebc771a4a"
+  },
+  "username": "test5nhacacbanok",
+  "email": "test5@gmail.com",
+  "phonenumber": "0907535556",
+  "password": "U2FsdGVkX1/umh5WAGg0ofBlmhh/SIzkM/TuY30x4hc=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-19T17:44:20.874Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T17:50:03.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644091a6d68686322f1c6e75"
+  },
+  "username": "testlan20232014",
+  "email": "test9@gmail.com",
+  "phonenumber": "0907532588",
+  "password": "U2FsdGVkX19PVCzQtecEmCVuStGvybzTwiq+SwHXwJg=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-04-20T01:13:10.509Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T01:13:10.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6455b644d5bce8433d894221"
+  },
+  "username": "bao cao web",
+  "email": "baocaoweb@gmail.com",
+  "phonenumber": "0123456789",
+  "password": "U2FsdGVkX188Otc2mFMBWBtoUABAi3eVhUUXdMu2KEs=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-05-06T02:07:00.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T02:07:00.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64566a7789523741937969f1"
+  },
+  "username": "Phan tester123",
+  "email": "tester@gmail.com",
+  "phonenumber": "0907532224",
+  "password": "U2FsdGVkX18iqeDLGBYE1HZALhKs1bKg0ZLH6BZyKco=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-05-06T14:55:51.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T14:55:51.566Z"
+  },
+  "__v": 0
+}]
